@@ -1,0 +1,13 @@
+[
+  {
+    "package": "foieGras",
+    "oncran": true
+  },
+  {
+    "package": "bsam",
+    "oncran": true
+  },
+  {
+    "package": "mpmm"
+  }
+]
