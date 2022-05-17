@@ -18,3 +18,19 @@
 	url = https://github.com/ianjonsen/mpmm
 	shallow = true
 	registered = true
+[submodule "crawl"]
+	path = crawl
+	url = https://github.com/NMML/crawl
+	shallow = true
+	branch = devel
+	registered = false
+[submodule "pathroutr"]
+	path = pathroutr
+	url = https://github.com/jmlondon/pathroutr
+	shallow = true
+	registered = false
+[submodule "rnaturalearthhires"]
+	path = rnaturalearthhires
+	url = https://github.com/ropensci/rnaturalearthhires
+	shallow = true
+	registered = false
