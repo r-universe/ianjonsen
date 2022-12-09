@@ -2,6 +2,13 @@
   {
     "package": "crawl",
     "url": "https://github.com/NMML/crawl",
+    "via": ["aniMotum", "pathroutr"],
+    "branch": "devel",
+    "from": "aniMotum"
+  },
+  {
+    "package": "crawl",
+    "url": "https://github.com/NMML/crawl",
     "via": ["foieGras", "pathroutr"],
     "branch": "devel",
     "from": "foieGras"
@@ -9,8 +16,20 @@
   {
     "package": "pathroutr",
     "url": "https://github.com/jmlondon/pathroutr",
+    "via": ["aniMotum"],
+    "from": "aniMotum"
+  },
+  {
+    "package": "pathroutr",
+    "url": "https://github.com/jmlondon/pathroutr",
     "via": ["foieGras"],
     "from": "foieGras"
+  },
+  {
+    "package": "rnaturalearthhires",
+    "url": "https://github.com/ropensci/rnaturalearthhires",
+    "via": ["aniMotum"],
+    "from": "aniMotum"
   },
   {
     "package": "rnaturalearthhires",
