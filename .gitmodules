@@ -3,9 +3,9 @@
 	url = https://github.com/ianjonsen/universe
 	shallow = true
 	branch = HEAD
-[submodule "foieGras"]
-	path = foieGras
-	url = https://github.com/ianjonsen/foieGras
+[submodule "aniMotum"]
+	path = aniMotum
+	url = https://github.com/ianjonsen/aniMotum
 	shallow = true
 	registered = true
 [submodule "bsam"]
