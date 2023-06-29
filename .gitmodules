@@ -1,36 +1,26 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/ianjonsen/universe
-	shallow = true
 	branch = HEAD
 [submodule "aniMotum"]
 	path = aniMotum
 	url = https://github.com/ianjonsen/aniMotum
-	shallow = true
-	registered = true
 [submodule "bsam"]
 	path = bsam
 	url = https://github.com/ianjonsen/bsam
-	shallow = true
-	registered = true
 [submodule "mpmm"]
 	path = mpmm
 	url = https://github.com/ianjonsen/mpmm
-	shallow = true
-	registered = true
 [submodule "crawl"]
 	path = crawl
 	url = https://github.com/NMML/crawl
-	shallow = true
 	branch = devel
 	registered = false
 [submodule "pathroutr"]
 	path = pathroutr
 	url = https://github.com/jmlondon/pathroutr
-	shallow = true
 	registered = false
 [submodule "rnaturalearthhires"]
 	path = rnaturalearthhires
 	url = https://github.com/ropensci/rnaturalearthhires
-	shallow = true
 	registered = false
