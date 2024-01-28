@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/ianjonsen/universe
+	url = https://github.com/ianjonsen/ianjonsen.r-universe.dev
 	branch = HEAD
 [submodule "aniMotum"]
 	path = aniMotum
