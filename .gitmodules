@@ -11,19 +11,6 @@
 [submodule "bsam"]
 	path = bsam
 	url = https://github.com/ianjonsen/bsam
-[submodule "crawl"]
-	path = crawl
-	url = https://github.com/NMML/crawl
-	branch = devel
-	registered = false
 [submodule "mpmm"]
 	path = mpmm
 	url = https://github.com/ianjonsen/mpmm
-[submodule "pathroutr"]
-	path = pathroutr
-	url = https://github.com/jmlondon/pathroutr
-	registered = false
-[submodule "rnaturalearthhires"]
-	path = rnaturalearthhires
-	url = https://github.com/ropensci/rnaturalearthhires
-	registered = false
